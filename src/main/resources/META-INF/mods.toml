@@ -7,6 +7,8 @@ version="1.0.0"
 displayName="Industrial Craft 2"
 description="Technology mod with machines and energy system"
 authors="AI Assistant"
+# Добавляем лицензию
+license="MIT"
 
 [[dependencies.ic2]]
 modId="forge"
